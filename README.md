@@ -5,3 +5,5 @@ Then run
 docker-compose up -d --build
 ```
 on the repo directory
+
+Then open the browser and access your localhost
